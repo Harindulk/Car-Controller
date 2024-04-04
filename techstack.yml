@@ -1,0 +1,31 @@
+repo_name: Harindulk/Unity-FPS-Controller
+report_id: e34444a2d385548e7e8af4c8cf133c83
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-04T18:20:56+00:00'
+requested_by: Harindulk
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/Harindulk/Unity-FPS-Controller
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Harindulk/Unity-FPS-Controller
+  detection_source: Repo Metadata
